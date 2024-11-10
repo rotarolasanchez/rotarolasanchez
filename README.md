@@ -1,6 +1,6 @@
-### Greetings everyone! My name is Jorge, also known in the industry as [Chochy][Facebook] 👋
+### Greetings everyone! My name is Ronald, also known in the industry as [Chochy][Facebook] 👋
 
-## As the CEO of Capdesis, I am passionate about technology and education. In addition to leading our company in its mission to innovate and grow, I also have the pleasure of being an educator and a software developer with a variety of skills in my repertoire.
+## As a Systems Engineer and Systems Master, I have extensive knowledge in different technologies, with more than 9 years of experience in the technology sector, I am specialized in the development of mobile solutions.
 
 I've had the privilege of teaching courses that cover various aspects of software development and the essential tools for it:
 
