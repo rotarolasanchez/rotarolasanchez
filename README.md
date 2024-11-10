@@ -7,9 +7,7 @@ I am always looking to collaborate with other content creators and industry prof
 ### Contact me!:
 
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-13.png" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
 <br />
 
@@ -68,13 +66,8 @@ I am always looking to collaborate with other content creators and industry prof
 
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
 [website]: https://capdesis.com/
-[youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/
-[Facebook]: https://www.facebook.com/ChoChochitos
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
-[cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
-[cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
-[cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
+[Facebook]: https://www.facebook.com/ronald.otarola/about?locale=es_LA
+[linkedin]: https://www.linkedin.com/in/ronald-eduardo-otarola-sanchez-15512088/
 [web]:  https://www.google.com/
 
 [Formulae]: https://formulaeapps.com/en
