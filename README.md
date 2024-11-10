@@ -1,4 +1,4 @@
-### Greetings everyone! My name is Ronald, also known in the industry as [Chochy][Facebook] 👋
+### Greetings everyone! My name is Ronald 👋
 
 ## As a Systems Engineer and Systems Master, I have extensive knowledge in different technologies, with more than 9 years of experience in the technology sector, I am specialized in the development of mobile solutions.
 
