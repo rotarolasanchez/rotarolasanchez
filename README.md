@@ -2,18 +2,7 @@
 
 ## As a Systems Engineer and Systems Master, I have extensive knowledge in different technologies, with more than 9 years of experience in the technology sector, I am specialized in the development of mobile solutions.
 
-I've had the privilege of teaching courses that cover various aspects of software development and the essential tools for it:
-
-- 👉[C Course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
-- 👉[Golang Course](https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03)[<img align="left" alt="CursoC" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][cursoC]!
-- 👉[Git & GitHub Course](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
-- 👉[Photoshop Course](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
-- 👉[Vim Course](https://www.udemy.com/course/chochy_vim/?referralCode=E79B7EB4B6A5E52CD97D)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />][cursoPhotoshop]!
-- 👉[Introduction to Programming in Various Languages Course](https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][cursoPhotoshop]!
-
 I am always looking to collaborate with other content creators and industry professionals to learn together and create more impactful technological solutions. My philosophy is constant learning and continuous growth, principles that I also instill in the culture of Capdesis.
-
-As an integral part of Capdesis, my goal is to ensure that we offer personalized and high-quality software and home automation solutions to all our clients. I am excited to continue leading Capdesis on its path of innovation and excellence. Let's keep redefining the boundaries of technology together! #Capdesis #Innovation #TechnologicalEducation
 
 ### Contact me!:
 
