@@ -14,11 +14,11 @@ I am always looking to collaborate with other content creators and industry prof
 ---
 ### 📺 My Apps
 
-[<img align="left" alt="Formulae" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae Apps**
+<!-- [<img align="left" alt="Formulae" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
+**Formulae Apps**-->
 
-[<img align="left" alt="IngeTracker" width="30px" src="https://play-lh.googleusercontent.com/s1irh98NALmdY6n_0mhC3xp-AxwSQaI6j1PkmpfI0L0SkvLMqFUvj8HleSst4U3SytiF=w480-h960-rw" />][IngeTracker]
-**Ingenieria Tracker**
+<!--[<img align="left" alt="IngeTracker" width="30px" src="https://play-lh.googleusercontent.com/s1irh98NALmdY6n_0mhC3xp-AxwSQaI6j1PkmpfI0L0SkvLMqFUvj8HleSst4U3SytiF=w480-h960-rw" />][IngeTracker]
+**Ingenieria Tracker**-->
 
 <br />
 <br />
