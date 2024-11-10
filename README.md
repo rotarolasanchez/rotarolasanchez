@@ -40,11 +40,11 @@ I am always looking to collaborate with other content creators and industry prof
     <summary>📺 View</summary>
     
 <!-- YOUTUBE:START -->
-- [Tracker UNAM BY Chochy #universidad  #dinero #tips #finanzas #tecnologia  #emprendimiento #unam](https://www.youtube.com/watch?v=dWZ3kyVFp04)
-- [Temporizador y diseño de un sistema secuencial](https://www.youtube.com/watch?v=iKFPw0Zbx5A)
-- [Paginación de procesos](https://www.youtube.com/watch?v=iOOoD6ouYWs)
-- [Algoritmo del banquero](https://www.youtube.com/watch?v=YKFWwjPMHd8)
-- [Ingenieria Tracker UNAM](https://www.youtube.com/watch?v=_hPdYweYtg8)
+<!-- - [Tracker UNAM BY Chochy #universidad  #dinero #tips #finanzas #tecnologia  #emprendimiento #unam](https://www.youtube.com/watch?v=dWZ3kyVFp04)-->
+<!-- - [Temporizador y diseño de un sistema secuencial](https://www.youtube.com/watch?v=iKFPw0Zbx5A)-->
+<!-- - [Paginación de procesos](https://www.youtube.com/watch?v=iOOoD6ouYWs)-->
+<!-- - [Algoritmo del banquero](https://www.youtube.com/watch?v=YKFWwjPMHd8)-->
+<!-- - [Ingenieria Tracker UNAM](https://www.youtube.com/watch?v=_hPdYweYtg8)-->
 <!-- YOUTUBE:END -->
     
 </details>
@@ -54,11 +54,11 @@ I am always looking to collaborate with other content creators and industry prof
     <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/chochy2001/VimConfiguration/pull/1) in [chochy2001/VimConfiguration](https://github.com/chochy2001/VimConfiguration)
+<!--1. 🎉 Merged PR [#1](https://github.com/chochy2001/VimConfiguration/pull/1) in [chochy2001/VimConfiguration](https://github.com/chochy2001/VimConfiguration)
 2. 💪 Opened PR [#1](https://github.com/chochy2001/github-actions/pull/1) in [chochy2001/github-actions](https://github.com/chochy2001/github-actions)
 3. 🎉 Merged PR [#4](https://github.com/chochy2001/Calculadora_distintas_bases/pull/4) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
 4. 🎉 Merged PR [#3](https://github.com/chochy2001/Calculadora_distintas_bases/pull/3) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
-5. 🎉 Merged PR [#2](https://github.com/chochy2001/Calculadora_distintas_bases/pull/2) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
+5. 🎉 Merged PR [#2](https://github.com/chochy2001/Calculadora_distintas_bases/pull/2) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)-->
 <!--END_SECTION:activity-->
 
 </details>
