@@ -2,7 +2,7 @@
 
 ## As a Systems Engineer and Systems Master, I have extensive knowledge in different technologies, with more than 9 years of experience in the technology sector, I am specialized in the development of mobile solutions.
 
-I am always looking to collaborate with other content creators and industry professionals to learn together and create more impactful technological solutions. My philosophy is constant learning and continuous growth, principles that I also instill in the culture of Capdesis.
+I am always looking to collaborate with other content creators and industry professionals to learn together and create more impactful technological solutions. My philosophy is constant learning and continuous growth
 
 ### Contact me!:
 
