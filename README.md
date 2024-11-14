@@ -24,7 +24,7 @@ I am always looking to collaborate with other content creators and industry prof
 <br />
 
 ## 🔎 My Stats:
- <!--<details>-->
+ <!--<details>--->
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rotarolasanchez&show_icons=true&theme=tokyonight)
 
