@@ -29,7 +29,7 @@ I am always looking to collaborate with other content creators and industry prof
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rotarolasanchez&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotarolasanchez&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotarolasanchez&layout=compact)
 <br />
 
 </details>
