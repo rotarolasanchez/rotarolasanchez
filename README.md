@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ronald!
 
 ## 🚀 Mobile Developer | 📚 Systems Engineer | 🎯 Passionate about Technology and Innovation
-
+[![CI](https://github.com/rotarolasanchez/Portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/rotarolasanchez/Portfolio/actions/workflows/main.yml)
 - 🎓 Systems Engineer and Systems Master with over 9 years of experience.
 - 📱 Specialized in building modern and scalable mobile applications.
 - 🤝 Always seeking collaboration opportunities with tech professionals and content creators.
